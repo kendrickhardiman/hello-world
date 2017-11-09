@@ -13,4 +13,4 @@ Make changes to a file and push them to GitHub as commits
 Open and merge a pull request
 
 
-All of your branch are belong to us.
+ALL OF YOUR BRANCH ARE BELONG TO US.
